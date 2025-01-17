@@ -20,3 +20,8 @@ A simple RESTful API for managing tasks with user authentication, developed usin
 
 
    cd todo-list-api
+
+2. Install dependencies:                          pip install -r requirements.txt
+3. Run the server:                                uvicorn app.main:app --reload
+
+
