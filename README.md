@@ -1,4 +1,4 @@
-# To-Do-List-API
+# FastAPI To-Do List API
 
 A simple RESTful API for managing tasks with user authentication, developed using FastAPI and SQLite.
 
@@ -15,13 +15,6 @@ A simple RESTful API for managing tasks with user authentication, developed usin
 
 ## Setup Instructions
 1. Clone the repository:
-
+   ```bash
    git clone https://github.com/sideekickk/todo-list-api.git
-
-
    cd todo-list-api
-
-2. Install dependencies:                          pip install -r requirements.txt
-3. Run the server:                                uvicorn app.main:app --reload
-
-
